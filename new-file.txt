@@ -1,0 +1,2 @@
+// __define-ocg__
+varOcg = 'value';
